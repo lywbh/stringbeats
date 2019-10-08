@@ -1,0 +1,254 @@
+{
+	"name": "Chrono Diver -PENDULUMs- (USAO remix)",
+	"artist": "啊啊啊",
+	"creator": "kamimi",
+	"music": "audio",
+	"backgroundImage": "bg",
+	"skin": "skin",
+	"preview": {
+		"offset": 20.15,
+		"duration": 11
+	},
+	"timeLines": [{
+		"offset": 0,
+		"beat": "4/4",
+		"bpm": 187,
+		"lines": [{
+			"offset": 2.443,
+			"duration": 1.304,
+			"y": 4,
+			"events": [{
+				"offset": 2.443,
+				"type": "NOTE",
+				"x": -2
+			},{
+				"offset": 2.443,
+				"type": "NOTE",
+				"x": 3
+			},{
+				"offset": 2.606,
+				"type": "NOTE",
+				"x": -4
+			},{
+				"offset": 2.769,
+				"type": "NOTE",
+				"x": 6
+			},{
+				"offset": 2.932,
+				"type": "NOTE",
+				"x": -4
+			},{
+				"offset": 3.095,
+				"type": "NOTE",
+				"x": 7
+			},{
+				"offset": 3.176,
+				"type": "NOTE",
+				"x": -3
+			},{
+				"offset": 3.258,
+				"type": "NOTE",
+				"x": 6
+			},{
+				"offset": 3.421,
+				"type": "NOTE",
+				"x": -7
+			},{
+				"offset": 3.584,
+				"type": "NOTE",
+				"x": 3
+			}]
+		},{
+			"offset": 3.747,
+			"duration": 1.304,
+			"y": -6,
+			"events": [{
+				"offset": 3.747,
+				"type": "NOTE",
+				"x": 2
+			},{
+				"offset": 3.747,
+				"type": "NOTE",
+				"x": -3
+			},{
+				"offset": 3.910,
+				"type": "NOTE",
+				"x": 4
+			},{
+				"offset": 4.073,
+				"type": "NOTE",
+				"x": -6
+			},{
+				"offset": 4.236,
+				"type": "NOTE",
+				"x": 4
+			},{
+				"offset": 4.399,
+				"type": "NOTE",
+				"x": -7
+			},{
+				"offset": 4.481,
+				"type": "NOTE",
+				"x": 3
+			},{
+				"offset": 4.562,
+				"type": "NOTE",
+				"x": -6
+			},{
+				"offset": 4.725,
+				"type": "NOTE",
+				"x": 7
+			},{
+				"offset": 4.888,
+				"type": "NOTE",
+				"x": -3
+			}]
+		},{
+			"offset": 5.051,
+			"duration": 1.304,
+			"y": 1,
+			"events": [{
+				"offset": 5.051,
+				"type": "NOTE",
+				"x": -10
+			},{
+				"offset": 5.133,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.214,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.214,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.296,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.377,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.459,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.54,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.622,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.703,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.785,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.866,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 5.948,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 6.029,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 6.111,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 6.192,
+				"type": "TICK",
+				"x": -10
+			},{
+				"offset": 6.274,
+				"type": "TICK",
+				"x": -10
+			}]
+		},{
+			"offset": 5.051,
+			"duration": 1.304,
+			"y": -3,
+			"events": [{
+				"offset": 5.051,
+				"type": "NOTE",
+				"x": 8
+			},{
+				"offset": 5.133,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.214,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.214,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.296,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.377,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.459,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.54,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.622,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.703,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.785,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.866,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 5.948,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 6.029,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 6.111,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 6.192,
+				"type": "TICK",
+				"x": 8
+			},{
+				"offset": 6.274,
+				"type": "TICK",
+				"x": 8
+			}]
+		}]
+	}]
+}
