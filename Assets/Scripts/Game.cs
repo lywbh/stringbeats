@@ -27,7 +27,7 @@ public class Game : MonoBehaviour
     void Update()
     {
         HandleTouch();
-        //HandleClick();
+        HandleClick();
         if (audioSource.isPlaying)
         {
             var audioTime = audioSource.time;

@@ -58,7 +58,7 @@ public class Tick : MonoBehaviour
                 }
             }
         }
-        /*if (Input.GetMouseButton(0))
+        if (Input.GetMouseButton(0))
         {
             var position = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             if (System.Math.Abs(position.x - transform.position.x) < triggerGapX)
@@ -66,7 +66,7 @@ public class Tick : MonoBehaviour
                 accuracy = 0F;
                 Destroy(gameObject);
             }
-        }*/
+        }
     }
 
     void Update()
